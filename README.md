@@ -5,7 +5,7 @@ Seja bem-vindo ao repositório de conceito do **StarBridge**!
 > **⚠️ NOTA IMPORTANTE:** Este repositório não contém o código-fonte final do projeto. Atualmente, ele serve como um **Showcase de Protótipo** e documentação da visão do produto.
 
 <details>
-  <summary>🌐 <b>English Version (Click to expand)</b></summary>
+  <summary>🇺🇸 <b>English Version (Click to expand)</b></summary>
   <br>
 
   # 🚀 StarBridge - Documentation & Prototype
