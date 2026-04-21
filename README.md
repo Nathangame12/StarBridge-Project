@@ -7,23 +7,27 @@ Seja bem-vindo ao repositório de conceito do **StarBridge**!
 ---
 
 ## 💡 O que é o StarBridge?
-O StarBridge é uma solução digital inovadora desenhada para conectar alunos da rede pública de ensino a oportunidades reais de carreira e aprendizado técnico. Através de uma plataforma **gamificada**, transformamos a jornada educacional em uma experiência motivadora e de alto impacto social.
+O StarBridge é uma solução digital inovadora desenhada para conectar alunos da rede pública de ensino a oportunidades reais de carreira e aprendizado técnico. Através de uma plataforma **gamificada**, transformamos a jornada educacional em uma experiênca motivadora e de alto impacto social.
 
-## 📱 O Protótipo (Spoiler!)
-Para garantir a veracidade e mostrar a evolução do design, disponibilizo aqui alguns "spoilers" do que estamos construindo:
+## 📱 Visualização do Protótipo (Spoilers)
+Abaixo, você pode conferir as telas principais do aplicativo, focadas em simplicidade e engajamento para o estudante.
 
-- **Interface do Usuário:** Design focado em acessibilidade e engajamento.
-- **Sistema de Gamificação:** Esboço de como os alunos ganham recompensas e evoluem na trilha.
-- **Conexão com Empresas:** Protótipo da área de visualização de vagas e cursos.
+### 🖼️ Galeria de Telas
 
----
-
-## 🖼️ Galeria do Protótipo
-*(Dica: Nathan, aqui você pode subir prints do seu app para a pasta do GitHub e linkar abaixo)*
-
-| Tela Inicial | Dashboard do Aluno | Sistema de Conquistas |
+| Área de Login | Tela Inicial | Funcionalidades |
 | :---: | :---: | :---: |
-| ![Preview](LINK_DA_IMAGEM_1) | ![Preview](LINK_DA_IMAGEM_2) | ![Preview](LINK_DA_IMAGEM_3) |
+| ![Login](Área-De-Login.png) | ![Home](Tela-Inicial.png) | ![Funcionalidades](Funcionalidades.png) |
+| *Acesso seguro* | *Ponto de partida* | *Recursos principais* |
+
+| Desafios | Mentores | Perfil do Usuário |
+| :---: | :---: | :---: |
+| ![Desafios](Desafios.png) | ![Mentores](Área-Mentores.png) | ![Perfil](Perfil.png) |
+| *Gamificação ativa* | *Suporte técnico* | *Evolução do aluno* |
+
+| Conquistas | Modo Pro |
+| :---: | :---: |
+| ![Conquistas](Conquists.png) | ![Modo Pro](Modo-Pro.png) |
+| *Badges e níveis* | *Recursos Premium* |
 
 ---
 
